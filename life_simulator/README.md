@@ -15,8 +15,8 @@ You will write a Life simulator that allows a user to create cell patterns by mo
 - space bar - Switch to single-step mode and take one simulation step.
 
 # Demo
-<figure class="video_container">
-    <video controls="true" allofullscreen="true">
-    <source src="../demo_videos/life_simulator_video_demo.mp4" type="video/mp4">
-    </video>
-</figure>
+https://user-images.githubusercontent.com/45823963/128416789-7d824fc8-4e9c-4bea-8b5d-d0095f45afef.mov
+
+
+
+
